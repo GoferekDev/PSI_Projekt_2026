@@ -1,0 +1,14 @@
+Elementy UI:
+- Strona nadawania przesyłki DONE
+- Strona płatności
+- Strona pobrania etykiety
+- Strona współpracy
+- Strona anulowania przesyłki
+- Strona lokalizacji paczki
+- Strona zwrotów
+- Strona logowania
+- Interfejs stałego nadawcy
+- Interfejs administratora
+- Strona zmiany hasła
+- Strona aktualizacji konta
+- Aplikacja kuriera
