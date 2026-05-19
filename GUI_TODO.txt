@@ -1,8 +1,8 @@
 Elementy UI:
 - Strona nadawania przesyłki DONE
 - Strona płatności DONE
-- Strona pobrania etykiety
-- Strona współpracy
+- Strona pobrania etykiety DONE
+- Strona współpracy DONE
 - Strona anulowania przesyłki DONE
 - Strona lokalizacji paczki DONE
 - Strona zwrotów
