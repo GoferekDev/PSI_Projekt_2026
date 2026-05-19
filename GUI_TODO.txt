@@ -5,7 +5,7 @@ Elementy UI:
 - Strona współpracy DONE
 - Strona anulowania przesyłki DONE
 - Strona lokalizacji paczki DONE
-- Strona zwrotów
+- Strona zwrotów DONE
 - Strona logowania DONE
 - Interfejs stałego nadawcy (Lista Zwrotow) DONE
 - Interfejs administratora
