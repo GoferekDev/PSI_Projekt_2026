@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
+  <diagram name="Strona-1" id="pijYrP3z6Rl4_xwewNjf">
+    <mxGraphModel dx="1414" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="160" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Firma Kurierska" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Nadawca" vertex="1">
+          <mxGeometry height="60" width="30" x="240" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Odbiorca" vertex="1">
+          <mxGeometry height="60" width="30" x="550" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Organizacja Obsługująca Płatności" vertex="1">
+          <mxGeometry height="60" width="30" x="320" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Stały Nadawca" vertex="1">
+          <mxGeometry height="60" width="30" x="160" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-9" edge="1" parent="1" source="JBz9sfD-rRxaL6xMQYHG-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="JBz9sfD-rRxaL6xMQYHG-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="520" as="sourcePoint" />
+            <mxPoint x="300" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-10" edge="1" parent="1" source="JBz9sfD-rRxaL6xMQYHG-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="JBz9sfD-rRxaL6xMQYHG-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="289" y="420" as="sourcePoint" />
+            <mxPoint x="414" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-11" edge="1" parent="1" source="JBz9sfD-rRxaL6xMQYHG-2" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="JBz9sfD-rRxaL6xMQYHG-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="600" as="sourcePoint" />
+            <mxPoint x="650" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBz9sfD-rRxaL6xMQYHG-12" edge="1" parent="1" source="JBz9sfD-rRxaL6xMQYHG-6" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="JBz9sfD-rRxaL6xMQYHG-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="640" as="sourcePoint" />
+            <mxPoint x="250" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
