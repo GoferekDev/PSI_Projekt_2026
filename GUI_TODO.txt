@@ -11,4 +11,4 @@ Elementy UI:
 - Interfejs administratora DONE
 - Strona zmiany hasła DONE
 - Strona aktualizacji konta (Moje konto) DONE
-- Aplikacja kuriera
+- Aplikacja kuriera DONE
