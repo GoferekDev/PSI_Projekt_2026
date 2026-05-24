@@ -8,7 +8,7 @@ Elementy UI:
 - Strona zwrotów DONE
 - Strona logowania DONE
 - Interfejs stałego nadawcy (Lista Zwrotow) DONE
-- Interfejs administratora
+- Interfejs administratora DONE
 - Strona zmiany hasła DONE
 - Strona aktualizacji konta (Moje konto) DONE
 - Aplikacja kuriera
